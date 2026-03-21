@@ -7,7 +7,6 @@
 ---
 
 ## 🎓 About Me
-이산수학과 웹 기초를 배우며 개발자의 길을 걷고 있습니다.
 
 🏫 **School:** Pusan National University (PNU)  
 💻 **Major:** Computer Science and Engineering  

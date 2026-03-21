@@ -28,7 +28,6 @@
 
 ---
 
-## 📁 My Repositories
-* 📘 [Discrete Math (Dmath)](https://github.com/dolmenge0909/Dmath) - 이산수학 과제 저장소
+
 
 </div>

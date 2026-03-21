@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, 부산대학교 이명서입니다!
-### 🚀 1학년 전공자로서 성장하는 중입니다
+# 안녕하세요,이명서입니다!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=70" />
 

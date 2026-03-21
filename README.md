@@ -1,13 +1,37 @@
-# 👋 안녕하세요, 이명서입니다!
+<div align="center">
+
+# 👋 안녕하세요, 부산대학교 이명서입니다!
+### 🚀 1학년 전공자로서 성장하는 중입니다
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=70" />
+
+---
 
 ## 🎓 About Me
-* 🏫 **부산대학교(PNU)** 정보컴퓨터공학부 컴퓨터 공학 전공 1학년 (26학번)
-* 💻 **Learning:** Python, HTML/CSS
-* 📝 **Goal:** 멋진 개발자 되기!
+이산수학과 웹 기초를 배우며 개발자의 길을 걷고 있습니다.
+
+🏫 **School:** Pusan National University (PNU)  
+💻 **Major:** Computer Science and Engineering  
+🌱 **Learning:** C Language, Python, HTML/CSS
+
+---
 
 ## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+---
 
 ## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dolmenge0909&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dolmenge0909&show_icons=true&theme=radical&align=center" />
+</p>
+
+---
+
+## 📁 My Repositories
+* 📘 [Discrete Math (Dmath)](https://github.com/dolmenge0909/Dmath) - 이산수학 과제 저장소
+
+</div>

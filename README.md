@@ -10,7 +10,7 @@
 
 🏫 **School:** Pusan National University (PNU)  
 💻 **Major:** Computer Science and Engineering  
-🌱 **Learning:** C Language, Python, HTML/CSS
+🌱 **Learning:** Python, HTML/CSS
 
 ---
 
